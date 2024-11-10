@@ -17,5 +17,5 @@ PUT - localhost:8080/alunos/{aluno_id} - Inscrição do aluno ao curso desejado
 <br>
 obs1: necessario informar e-mail e nome do aluno e o id do curso a ser inscrito.
 <br>
-obs2: é possivel cadastrar o aluno em diversos cursos de uma vez só)
+obs2: é possivel cadastrar o aluno em diversos cursos de uma vez só.
 </p>
